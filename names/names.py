@@ -14,7 +14,7 @@ f.close()
 
 duplicates = []
 
-bst = BinarySearchTree('name')
+bst = BinarySearchTree('duplicated')
 # adding names from list names_1 to the bst
 for name in names_1:
     bst.insert(name)
